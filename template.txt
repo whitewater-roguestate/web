@@ -1,0 +1,18 @@
+<!doctype html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>Interest Form</title>
+		
+	</head>
+	<body style="background-color:PaleGoldenrod;">
+		<h2>Interest Form</h2>
+		<h3>Home     |     Interest Form     |     About Us     |     LUCC Chronical     |     Contact</h3>
+		
+		<p>
+			Hello there mate
+		</p>
+		
+		
+	</body>
+</html>
